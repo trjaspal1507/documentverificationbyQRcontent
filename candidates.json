@@ -1525,5 +1525,19 @@
     "issued": "22-Apr-2026",
     "valid": "22-Apr-2028",
     "type": "Certificate"
+	   },
+  "TR659162": {
+    "candidateId": "TR659162",
+    "token": "WvMIzPQXj0IQpPSi35S4VIeS936fXbAxx0b3KA44YLlb3P5f4vtsko7fOFLz3xOVf9wgMwY2ZMcQGaey8OAu9Go84Pb0B02vzMvS1QJqlbj7EizwxaIpvA3P64fZmuz4AlTLGT2ayHJ4xdz2jZyuWhXOZZuXxWqOQOLmZ5tWCoftVaUevkpo0FcxOal8GxOUiUV0iEREY0OGTwlV3sQ4iLkDVkbpghIBEJ2LgFTIPxk50HbBrIBK4TulXeG28AkgV7XP5VLxjloICku82S7I9h6DyEXskuIT4gDxG4zUGRqcLascmLkQzDWcm3kQxazsCstJY8zZimgFOu511Iu4dk8Lk7fhuZLlPEi5xawbAsFv0m1CjJgVAm4rZ2eMpqssAl5d7fXfKuyA2j9i",
+    "name": "Gaya Prasad",
+    "sector": "Retail",
+    "qpName": "Retail Sales Assistant",
+    "qpCode": "RAS/Q0103",
+    "version": "4.0",
+    "grade": "B",
+    "documentId": "stcyS3ctDkFkvauR",
+    "issued": "20-Sep-2026",
+    "valid": "20-Sep-2028",
+    "type": "Certificate"
 	}	 
 }
