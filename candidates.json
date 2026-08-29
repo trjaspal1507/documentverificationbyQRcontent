@@ -1539,5 +1539,19 @@
     "issued": "20-Sep-2025",
     "valid": "20-Sep-2027",
     "type": "Certificate"
+	   },
+  "TR667762": {
+    "candidateId": "TR667762",
+    "token": "OkXSTuSJuP6jaidy0MJs14VgoI8eQlmDrqE7ct5KHZPs3KLarM2260ciuw1Wjmyg1DrvQIBeh46rF64bFekK5fzzeycHC3bA99JOkaY1wzdR3BWyJWJQhwHUsqDsRaW6RTwDeoiadipOc6bHxuvBlIrrh8gFD3Ys1DSlsWkX19FOTeUl2L5a2H4AB3sU8Lc5JFDGfrVTTxt368PJ6W3pZ09JGOwCO7TC97aF7RJJugRFx9btDFe4oV14kjwdhRZVRDMctXygRow0GAytoQs1hfYZFSXXt485bDtBa0Xdk7HSRMdI26OIJjqTmjT7uGDwF0iOgkCVKl5eiiwtH4GqsSfHJFVhHupdg4XZRArAT7BXsVs1vOQ0oAYWtd7e6PWkkZqdz86civ0Y3yq5",
+    "name": "Manoj Kumar",
+    "sector": "Telecom",
+    "qpName": "Telecom Grameen Udhyami",
+    "qpCode": "TEL/Q4302",
+    "version": "1.0",
+    "grade": "B",
+    "documentId": "IYsVc4GrEWpYvdO7",
+    "issued": "10-Apr-2026",
+    "valid": "10-Apr-2028",
+    "type": "Certificate"
 	}	 
 }
