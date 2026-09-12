@@ -1553,19 +1553,5 @@
     "issued": "10-Apr-2026",
     "valid": "10-Apr-2028",
     "type": "Certificate"
-	   },
-  "TR432910": {
-    "candidateId": "TR432910",
-    "token": "1xOMFIMAi164hzzUTVYlG1WkYWhOJqgcsVspK1BSeBr13mBhujTrx7zg8C1jCGwDswF0h1ZEByTKy5O0UPbZCKBF9tZuQRV3VtZBZ4WLAhxQ3XFB2DYtBUYCEgYhyQ7rGXTWUyTiytt3rDrDf3GVEiKyZPsLJBxdLlwKzppkR9rxPeWUZXL52uJHBuqLGYAS8R3TFjDY7jdy9OzwRVvkHzg5jpD6w9zMcvuOMYcDE5ihXZagwelOt0wISLXE49ET9hGzZzIRwRh6LiZA15CTJpv45c2AYfVbGLBrpHykHYQzr8AvXgPSB9pvcfBOkCDdrQflx8DW6j6xEgahbxa0ORhjE06MuuiXhRzf9TXlv8Apdri0gqCcPW6pd8CfaLELab2qgAwoJIhKZXJG",
-    "name": "Adeeba Irfani",
-    "sector": "Retail",	
-    "qpName": "Retail Sales Assistant",
-    "qpCode": "RAS/Q0103",
-    "version": "4.0",
-    "grade": "B",
-    "documentId": "oSUyKEQQ4ZE6py9o",
-    "issued": "09-May-2025",
-    "valid": "09-May-2027",
-    "type": "Certificate"
-	}	 
+	   }
 }
