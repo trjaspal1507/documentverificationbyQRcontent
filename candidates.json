@@ -1567,5 +1567,19 @@
     "issued": "09-May-2025",
     "valid": "09-May-2027",
     "type": "Certificate"
+		    },
+	  "TR672772": {
+    "candidateId": "TR672772",
+    "token": "vjHGJowEzXKa1ZKAZJLaUrCw0UqqYqeObhlSCYED5JjaARcrdIICmCvoHfrQayrWJRvS0LEu75SMp6pQbmioaXu18ipt2YbgjaLsSeeLs8dbyqAb44dYFwyiR7qJjOmwA5XVDeMzPKpP71fAXMaCYHHwtMYOMcTI9K8HJrksFRBD70pO01YFDxeuQFu1vklXmj7L5dYlDwPpK6gYQvB57rBuzBlUuZTuEdmdRzkrSc2gqia1RotuQ6mJxrCX0GE3o9V0oEhszDmO9PUmFpQu5YCOQdrXO76fhPqVr2jj4yzGKc7wqkbhcyC3wCc3yjLchus4eujYGhzKzkWdrbMIjWTL0wiQhkSJ9HGwlQFQcOzRbffcjOhdOysPblPt8cgs3YHdKpBtTiO6LuXG",
+    "name": "Yash Bharti",
+    "sector": "Retail",
+    "qpName": "Retail Sales Assistant",
+    "qpCode": "RAS/Q0103",
+    "version": "4.0",
+    "grade": "B",
+    "documentId": "LTaLazUtUg0a5GXr",
+    "issued": "09-May-2025",
+    "valid": "09-May-2027",
+    "type": "Certificate"
 	   }
 }
