@@ -1567,5 +1567,19 @@
     "issued": "09-Jun-2025",
     "valid": "09-Jun-2027",
     "type": "Certificate"
+		   },
+	  "TR667736": {
+    "candidateId": "TR667736",
+    "token": "0RlUtIXivmXEYzRhgf8PVyjXVkWsdu0W7MwYlp6U6kQzbX2S5vT9FKSr3DwVJRUbUvXzSk64GBXA7JBMmyCLHAB08Lx0LqjitAyp5e7459S1f9wi4vmfqM5QLM6uKfbL7BCC1OwihQxBqM0ixZg026UMXUskL5Vpzm2hLxRvlh56rptoB9Kc5X85uXifHp44SdLKWk1o6zCr1vulxJz131SZZodDOme2Q2t07zzXXZjso43z4BJRdRmG3OkRAaEOLE8y1RZRoD9QVgSMXtC8ptLsGrLaaYKIUDejleiYrjMyshtIwPCU9uRmEeQ9FM1YLEDUpuYcCtzPB7siK34KsDafyBabUEVPZuolOhzrXyz8JlZKE5Fq6c2U4h2AiowuWfjgVpR2F47cDKH7",
+    "name": "Junaid Ahmad",
+    "sector": "Telecom Sector Skill Council",
+    "qpName": "Telecom Grameen Udhyami",
+    "qpCode": "TEL/Q4302",
+    "version": "2.0",
+    "grade": "B",
+    "documentId": "hhWcr0z2ftrX2d4K",
+    "issued": "09-Apr-2025",
+    "valid": "09-Apr-2027",
+    "type": "Certificate"
 		}
 }
