@@ -1539,6 +1539,19 @@
     "issued": "09-May-2025",
     "valid": "09-May-2027",
     "type": "Certificate"
-		    }
+	},
+	  "TR458593": {
+    "candidateId": "TR458593",
+    "token": "b77XW3f7cEL5u3F9gS02KQ7YKCAVkGYviVBowl26UtdjShX89Tg6V3KDcVJi4EEAXBapH7OvdRw2JMqfbvLE9QLH9xBJkdisbWLJPd3eyXMwLHVYmFDz5OrGQibVVfG21m1yxKbsZJ7ppmWWwxXHiAe6sbfjdpFmd7V0bwPOr6rP690S8fKXUCiGFZvJ5vVSkxH6VAqMCMIw6Mf1tmKWZFAvw4Z5Y36zYdYMSth1SlA58Q8UBOSklvEbRFQmigqwzI431kiVlCsmSmM2YeqmyKWcl5sUJ0py0qvlCTMkGrrpExjAOUUsof2E8dtk95IGaG3kKY286x9IRFl3J3maKWKBEuPxotvIiUFHbX3G7gKOORLLdDF71dmiK6MpACcVz7LtmGCS2mgHacmx",
+    "name": "Saloni Gangwar",
+    "sector": "Telecom Sector Skill Council",
+    "qpName": "Telecom Grameen Udhyami",
+    "qpCode": "TEL/Q4302",
+    "version": "2.0",
+    "grade": "B",
+    "documentId": "ruT8J821uvaGFwSh",
+    "issued": "09-Jun-2025",
+    "valid": "09-Jun-2027",
+    "type": "Certificate"
+		}
 }
-
