@@ -1595,5 +1595,19 @@
     "issued": "09-Apr-2025",
     "valid": "09-Apr-2027",
     "type": "Certificate"
+		   },
+	  "TR158238": {
+    "candidateId": "TR158238",
+    "token": "VbcI8jiYcpTBsA0quSquKx7K669a8Cdi2LCvX6OexFzzET99fEvpk4ZhbOXg1Tky6F3d7Fffo4CkHqIBrvzwQ96Q0wR53wQLvUYw7wQO513IFvWmWPhmWv59maoex45BVsabLLyjiq5Tgi8bU97xq4I1AtlkTtkVdKzAaHiEV3gZ1pmOj5e0f4C4oTAvbWqvrATMVDL9Qs8a4xOI0tV0As9xZCdtpPi2bbqUgKZhqws6idyuP7dJAFJZuv7K0yecCwSDXXXGIfvgQZHdOsQ8695roD0VsdMUvSfdBASwrCFmCZlFRiFSIBwRO0ylmhGwJ8e1QuhgfhwLLxZW2yAZa1oVgX9UYiDz9E0IxeB7bHvg5RV9vjqxxLdS125X9WCAPvttlHHyIQMII69P",
+    "name": "Lokesh Kumar Yadav",
+    "sector": "Telecom Sector Skill Council",
+    "qpName": "Telecom Grameen Udhyami",
+    "qpCode": "TEL/Q4302",
+    "version": "2.0",
+    "grade": "B",
+    "documentId": "BqffcCv4C3oFBOwK",
+    "issued": "08-Apr-2026",
+    "valid": "08-Apr-2028",
+    "type": "Certificate"
 		}
 }
