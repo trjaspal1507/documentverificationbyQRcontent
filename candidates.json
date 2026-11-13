@@ -1581,5 +1581,19 @@
     "issued": "09-Apr-2025",
     "valid": "09-Apr-2027",
     "type": "Certificate"
+		   },
+	  "TR667148": {
+    "candidateId": "TR667148",
+    "token": "QJG4b2mEkOdcjbu93WHhWW6zzodXdwy2YDoz7lOd15aVYM6seL0WcPSB9BUV5KhYEyRcBu2fGkgyTOFd2PECG00l3H7dbZgIbbdkLI5RLyvzGLroHI5cXWopVb6VXmV5OEOgs3XBIOG68qUrL823jvAuZITpoIMdmQRCTRDsEd7QaxTehIIIilFdCbX3kXpo9EP9tzGHR7lWzM8Mkq7ruczpQaBWZADoSjWr2fKL9MaDEFZoi9t9WKIMkEPeUoH6Vjo7uJ07iOe7Ipft7zwcTsDtYytfR6rqWzt6FUiqG5AwtcYyQsJ1ZxcQRCOQoYVGHsEXUHpOSLIIlyLbvaCqV5Xof04aE295zp7TXMB4t1slqHF4KEbxDv7xaWgiO1D4sgCKWrJFp66trpyJ",
+    "name": "Manoj Kumar",
+    "sector": "Telecom Sector Skill Council",
+    "qpName": "Telecom Grameen Udhyami",
+    "qpCode": "TEL/Q4302",
+    "version": "2.0",
+    "grade": "B",
+    "documentId": "kITWoC3haxd10fuq",
+    "issued": "09-Apr-2025",
+    "valid": "09-Apr-2027",
+    "type": "Certificate"
 		}
 }
