@@ -1665,6 +1665,20 @@
     "issued": "15-Sept-2025",
     "valid": "15-Sept-2027",
     "type": "Certificate"
+		  	  "TR323064": {
+    "candidateId": "TR323064",
+    "token": "ZBEtxaK0HIMDYZX8pXqEL2kYVbdQyB6THC8vZVhsFyu4HDqXG1Gr3g5GBv0xOe65whyBYgiv4JSOTxCZO4B0tJWWdMlCUAHCjUGZdyAeUzWQeMuIaE17zPgo1L4rO4zcG25cTqIkqmIE9zws0WziYQVZGbGdskKYQt5O5eBqAXFvzLV01mr8IXW0DE60HCjLWtt5IvAdBdVxdjboAFwg9a8kWjyOppA4hu4PiPkaHrCBMD4rX7jKTakHGR2CiJ9c36PDeXMoUaOkTPrLr6lUu8C8eakMmixRHd1DauGwxlZ4Ma5cD7Q1ikfbIbbuOoM6CmaPiTDcTQkZkzKpfG1d6MbrsoBh4u3pA6DrlcEXJ72erIwqe4AZVSXvws2MO2Feu78T05XZP6Kg9RzZ",
+    "name": "Sunita Yadav",
+    "sector": "Apparel",
+    "qpName": "Chikankari & Zardosi Artisan",
+    "qpCode": "QG-03-AP-03234-2024-V1-UPSCVT",
+    "version": "1.0",
+    "grade": "B",
+    "documentId": "kY6SDvoSJiIsUzKO",
+    "issued": "21-July-2026",
+    "valid": "21-July-2028",
+    "type": "Certificate"
 	}
 }  
+
 
