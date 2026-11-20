@@ -1637,5 +1637,34 @@
     "issued": "26-Sep-2025",
     "valid": "26-Sep-2027",
     "type": "Certificate"
-		}
-}
+	  },
+		     "TR62145": {
+    "candidateId": "TR62145",
+    "token": "OUEcSIhYSZC1G9M8UZkdjfZwyqKszgpMYgY7EqvtLBTpW460WD32xTEOkhDX5ARdU7RVdpgHIyWvRu4q5OPY27KpKrG4KfH4TU4tcbywZY1zrQ8KjDRZBivLecZV2SDysPVMYBRQwPqa8gkIJgt9085D2chhU7UVRaaKEjvSAtA8sdAKgT1yJsJMHR1S7K53O66BYwTw2sZcHErVmAQbFJzb01zJs8qM6U7XKa0JFbRyGh1wGPjmv1Ew6AIaEiLSl2kcKjmUgEbyqRof1mk3UCa9sWo8RlKWkdv5W6a2SqAwoJPYdFXzSPhzmk7o825iUuKPwBSruplpXFpYelauj8eGbqazyVHurXTIZS7VwSidqA5u7L51AAM9oYMOZyKejSomLET657avQlfG",
+    "name": "Nilam",
+    "sector": "Apparel",
+    "qpName": "Chikankari & Zardosi Artisan",
+    "qpCode": "QG-03-AP-03234-2024-V1-UPSCVT",
+    "version": "1.0",
+    "grade": "B",
+    "documentId": "aMLXHEOcgWtfssyH",
+    "issued": "20-Oct-2026",
+    "valid": "20-Oct-2027",
+    "type": "Certificate"
+	},
+	  "TR452141": {
+    "candidateId": "TR452141",
+    "token": "wdzVl3Ho5cDkeU8GrGbEjMM8hQIPoa4d79PB1qUA1HwzubbCvOCg4TBzMTgkg4yvGOlKaSUEEpAOcbL1MVkCWWIsHDkklO6VfQKGyeBVzbkLChzsjwDSad6rpHC61D6uyMe7KDzIQbuX2IRW7BMZ89wLrOHKmU3ChRTUuG2kHrB7QHJUjQxKI1BQtZ7Ugya7Qh2LxIPuKkUqP5PregGcjv4w759JpIGfwLDUShKPfVh9bpcQXkCSUw2zqHpCQeJ1J6r72TTKlIdXlKagETkBwltIOsPTZSd5by0RXEWAl2g2xCYaLRw8Z7DOvugk4OPx5OXbITm5dMIMvpiwxhAIcZ5JeGIh7dBEKMGtxIay1kWKtkz6hG6cVuur2IUWMOiGLXQealO4bsaygBlr",
+    "name": "Shiva Rani",
+    "sector": "Apparel",
+    "qpName": "Chikankari & Zardosi Artisan",
+    "qpCode": "QG-03-AP-03234-2024-V1-UPSCVT",
+    "version": "1.0",
+    "grade": "B",
+    "documentId": "GpuoVfwkcbuQtaYJ",
+    "issued": "15-Sept-2025",
+    "valid": "15-Sept-2027",
+    "type": "Certificate"
+	}
+}  
+
